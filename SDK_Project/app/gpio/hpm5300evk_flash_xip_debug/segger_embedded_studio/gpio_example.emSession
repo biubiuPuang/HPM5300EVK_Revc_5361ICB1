@@ -1,0 +1,48 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBuffer/>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="gpio_example"/>
+  <ProjectSessionItem path="gpio_example;gpio_example - hpm5300evk"/>
+  <ProjectSessionItem path="gpio_example;gpio_example - hpm5300evk;application"/>
+  <ProjectSessionItem path="gpio_example;gpio_example - hpm5300evk;application;src"/>
+  <ProjectSessionItem path="gpio_example;gpio_example - hpm5300evk;arch"/>
+  <ProjectSessionItem path="gpio_example;gpio_example - hpm5300evk;arch;riscv"/>
+  <ProjectSessionItem path="gpio_example;gpio_example - hpm5300evk;arch;riscv;l1c"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="33" y="17" useTextEdit="1" path="../../src/gpio.c" left="0" selected="1" top="6" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="gpio_example - hpm5300evk" fileDialogDefaultFilter="*.c" autoConnectTarget="GDB Server" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="1343"/>
+</session>
