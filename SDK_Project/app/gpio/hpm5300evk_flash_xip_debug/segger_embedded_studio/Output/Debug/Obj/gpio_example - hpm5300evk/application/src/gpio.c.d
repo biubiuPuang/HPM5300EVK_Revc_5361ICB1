@@ -78,6 +78,4 @@ Output/Debug/Obj/gpio_example\ -\ hpm5300evk/application/src/gpio.c.o: \
  D:/1_Sofrware/HPM5300_SoftWare/sdk_env_v1.11.0/sdk_env_v1.11.0/hpm_sdk/soc/HPM5300/HPM5361/hpm_iomux.h \
  D:/1_Sofrware/HPM5300_SoftWare/sdk_env_v1.11.0/sdk_env_v1.11.0/hpm_sdk/soc/HPM5300/HPM5361/hpm_pmic_iomux.h \
  ../../../../board/hpm5300evk/pinmux.h \
- D:/1_Sofrware/HPM5300_SoftWare/sdk_env_v1.11.0/sdk_env_v1.11.0/hpm_sdk/components/debug_console/hpm_debug_console.h \
- D:/1_Sofrware/HPM5300_SoftWare/sdk_env_v1.11.0/sdk_env_v1.11.0/hpm_sdk/drivers/inc/hpm_gpio_drv.h \
- D:/1_Sofrware/HPM5300_SoftWare/sdk_env_v1.11.0/sdk_env_v1.11.0/hpm_sdk/drivers/inc/hpm_common.h
+ D:/1_Sofrware/HPM5300_SoftWare/sdk_env_v1.11.0/sdk_env_v1.11.0/hpm_sdk/components/debug_console/hpm_debug_console.h
